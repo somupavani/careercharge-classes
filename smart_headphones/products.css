@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-color: white;
+}
+
+h1 {
+    color: #323f4b;
+
+}
+
+.card1 {
+    border-radius: 15px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    padding-top: 80px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-size: cover;
+    margin-bottom: 15px;
+
+}
+
+.card1head {
+    color: white;
+}
+
+.card1para {
+    color: white;
+    font-size: 16px;
+}
+
+button {
+    color: #ff9f00;
+    background-color: white;
+    border-radius: 25px;
+    border-width: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card2 {
+    border-radius: 15px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    padding-top: 80px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-size: cover;
+    margin-bottom: 15px;
+
+}
+
+.offerlink {
+    color: #ff9f00;
+
+}
+
+.bgback {
+    background-color: white;
+    padding: 10px;
+
+}
+
+.lkg {
+    font-weight: bold;
+}
